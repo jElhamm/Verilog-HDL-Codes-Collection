@@ -24,7 +24,7 @@
 
 ## Output
 
-![Bin To 7seg Decoder](BinTo%207seg%20Decoder/Output.png)
+![Bin To 7seg Decoder](https://github.com/jElhamm/Verilog-HDL-Codes-Collection/blob/main/BinTo%207seg%20Decoder/Output.png)
 
 
 ## References

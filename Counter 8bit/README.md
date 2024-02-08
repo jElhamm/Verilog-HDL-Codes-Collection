@@ -75,4 +75,4 @@
    * [Verilog](https://en.wikipedia.org/wiki/Verilog#:~:text=Verilog%2C%20standardized%20as%20IEEE%201364,register%2Dtransfer%20level%20of%20abstraction.)
    * [Counter Design using verilog HDL](https://www.geeksforgeeks.org/counter-design-using-verilog-hdl/)
    * [8-bit Counter Implementation On FPGA using Verilog](https://circuitfever.com/counter-in-fpga-verilog#google_vignette)
-   * [Verilog Simulation Basics](https://www.javatpoint.com/verilog-simulation-basics#:~:text=Verilog%20is%20a%20hardware%20description,behaves%20in%20an%20intended%20way.)
+   * [Verilog Simulation Basics](https://www.javatpoint.com/verilog-simulation-basics#:~:text=Verilog%20is%20a%20hardware%20description,behaves%20in%20an%20intended%20way.) 

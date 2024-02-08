@@ -56,7 +56,7 @@
 
 ## Output
 
-![Priority Encoder](Priority%20Encoder%208to3/Output.png)
+![Priority Encoder](https://github.com/jElhamm/Verilog-HDL-Codes-Collection/blob/main/Priority%20Encoder%208to3/Output.png)
 
 ## References
 

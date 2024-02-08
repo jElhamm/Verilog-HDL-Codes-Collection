@@ -45,7 +45,7 @@
 
 ## Output
 
-![Encoder 8to3](Encoder%208to3/Output.png)
+![Encoder 8to3](https://github.com/jElhamm/Verilog-HDL-Codes-Collection/blob/main/Encoder%208to3/Output.png)
 
 
 ## References

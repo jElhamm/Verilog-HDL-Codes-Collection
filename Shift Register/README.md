@@ -59,7 +59,7 @@
 
 ## Output
 
-![Shift Register](Shift%20Register/Output.png)
+![Shift Register](https://github.com/jElhamm/Verilog-HDL-Codes-Collection/blob/main/Shift%20Register/Output.png)
 
 
 ## References

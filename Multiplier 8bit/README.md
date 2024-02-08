@@ -73,7 +73,7 @@
 
 ## Output
 
-![Multiplier Bit 8](Multiplier%208bit/Output.png)
+![Multiplier Bit 8](https://github.com/jElhamm/Verilog-HDL-Codes-Collection/blob/main/Multiplier%208bit/Output.png)
 
 ## References
 

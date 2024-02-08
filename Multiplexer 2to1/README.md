@@ -27,7 +27,7 @@
 
 ## Output
 
-![Multiplexer 2to1](Multiplexer%202to1/Output.png)
+![Multiplexer 2to1](https://github.com/jElhamm/Verilog-HDL-Codes-Collection/blob/main/Multiplexer%202to1/Output.png)
 
 
 ## References
