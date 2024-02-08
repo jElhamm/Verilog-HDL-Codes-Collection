@@ -9,26 +9,26 @@
    * This module represents a random access memory (RAM) circuit. It has the following ports:
 
 
-                *************************************************************************************************************
-                *                                                                                                           *
-                *     ---> Outputs: `out` (an 8-bit vector)                                                                 *
-                *     ---> Inputs: `datain` (an 8-bit vector), `address` (a 10-bit vector), `wr`, and `rd`.                 *
-                *                                                                                                           *
-                *   Inside the module, there is a register `out` declared as an 8-bit vector to store the data read         *
-                *   from the memory. Also, there is a memory array `mem` declared as `reg [7:0] mem[0:1023]`                *
-                *   to store the data. The combinational logic of the RAM is defined in the                                 *
-                *   `always @(wr or rd or datain or address)` block, which triggers whenever there is a change in           *
-                *   any of the inputs.                                                                                      *
-                *                                                                                                           *
-                *************************************************************************************************************
-                *                                                                                                           *
-                *    - The logic is as follows:                                                                             *
-                *                 ---> If the `wr` signal is high (`wr==1'b1`), write mode is enabled, and the data         *
-                *                      from `datain` is written to the memory location specified by `address`.              *
-                *                 ---> If the `rd` signal is high (`rd==1'b1`), read mode is enabled, and the data          *
-                *                      from the memory location specified by `address` is assigned to `out`.                *
-                *                                                                                                           *
-                *************************************************************************************************************
+                    *************************************************************************************************************
+                    *                                                                                                           *
+                    *     ---> Outputs: `out` (an 8-bit vector)                                                                 *
+                    *     ---> Inputs: `datain` (an 8-bit vector), `address` (a 10-bit vector), `wr`, and `rd`.                 *
+                    *                                                                                                           *
+                    *   Inside the module, there is a register `out` declared as an 8-bit vector to store the data read         *
+                    *   from the memory. Also, there is a memory array `mem` declared as `reg [7:0] mem[0:1023]`                *
+                    *   to store the data. The combinational logic of the RAM is defined in the                                 *
+                    *   `always @(wr or rd or datain or address)` block, which triggers whenever there is a change in           *
+                    *   any of the inputs.                                                                                      *
+                    *                                                                                                           *
+                    *************************************************************************************************************
+                    *                                                                                                           *
+                    *    - The logic is as follows:                                                                             *
+                    *                 ---> If the `wr` signal is high (`wr==1'b1`), write mode is enabled, and the data         *
+                    *                      from `datain` is written to the memory location specified by `address`.              *
+                    *                 ---> If the `rd` signal is high (`rd==1'b1`), read mode is enabled, and the data          *
+                    *                      from the memory location specified by `address` is assigned to `out`.                *
+                    *                                                                                                           *
+                    *************************************************************************************************************
 
    2. Module "tbram":
    	  
