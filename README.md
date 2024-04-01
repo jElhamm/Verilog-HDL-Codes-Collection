@@ -2,6 +2,59 @@
 
    In this repository, you will find a collection of *Verilog HDL Codes* for various digital design projects.
 
+## Projects List
+
+
+   [Xor Gate](Gates/Xor%20Gate)
+
+
+   [AND Gate](Gates/AND%20Gate)
+
+
+   [RAM 1024x8](RAM%201024x8)
+
+
+   [Bufif0 Gate](Gates/Bufif0%20Gate)
+
+
+   [Notif1 Gate](Gates/Notif1%20Gate)
+
+
+   [Counter 8bit](Counter%208bit)
+
+
+   [Decoder 2to4](Decoder%202to4)
+
+
+   [Decoder 3to8](Decoder%203to8)
+
+
+   [Encoder 8to3](Encoder%208to3)
+
+
+   [Shift Register](Shift%20Register)
+
+
+   [Comparator 8bit](Comparator%208bit)
+
+
+   [Multiplier 8bit](Multiplier%208bit)
+
+
+   [Multiplexer 2to1](Multiplexer%202to1)
+
+
+   [BinTo 7seg Decoder](BinTo%207seg%20Decoder)
+
+   
+   [Priority Encoder 8to3](Priority%20Encoder%208to3)
+
+
+   [ALU (Data Flow Modeling)](ALU%20(Data%20Flow%20Modeling))
+
+
+   [ALU (Gate Level Modeling)](ALU%20(Gate%20Level%20Modeling))
+
 
 ## Verilog HDL 
 
